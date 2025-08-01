@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tax",
+        "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-irs-accounting-flaticons-lineal-color-flat-icons.png"
+    },
+    
+    {
+        "name": "Accounting",
+        "icon": "https://img.icons8.com/office/40/accounting.png"
+    },
+    
+    
+    {
+        "name": "GitHub Actions",
+        "icon": "https://img.icons8.com/color/48/000000/github.png"
+    },
+  
+    {
+        "name": "JIRA",
+        "icon": "https://img.icons8.com/color/48/000000/jira.png"
+    },
+
+    {
+        "name": "SharePoint",
+        "icon": "https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png"
+    },
+    {
+        "name": "Networking",
+        "icon": "https://img.icons8.com/fluency/48/omnichannel.png"  
+    }
+    
+]
